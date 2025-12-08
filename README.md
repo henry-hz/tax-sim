@@ -23,6 +23,7 @@ Below are **8 separate Markdown tables** (one factor per table) comparing 10 Isr
 | [Rooks — VAT calculator](https://rooks.co.il/vat-calculator/)                                                                                | Simple VAT add/extract calculator and explanation                                  |
 | [VAT-calculator.info — Israel page](https://www.vat-calculator.info/israel/0/)                                                               | Quick VAT add/extract tool (internationalized for Israel)                          |
 | [VatCalculator.co.il](https://vatcalculator.co.il/)                                                                                          | Local VAT reporting/calculation tool and guides                                    |
+| [VatCalculator.co.il](https://secapp.taxes.gov.il/srsimulatorNZ/#/simulator)                                                                 | Local VAT reporting/calculation tool and guides                                    |
 
 # Factor — Target user (who it’s built for)
 
